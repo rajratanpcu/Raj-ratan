@@ -1,15 +1,19 @@
+<h1 align="center">Hi 👋, I'm Raj Ratan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajratanpcu&label=Profile%20views&color=0e75b6&style=flat" alt="rajratanpcu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajratanpcu" alt="rajratanpcu" /></a> </p>
 
+- 🔭 I’m currently working on [Madico](https://github.com/rajratanpcu/MEDICO)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-ratan-92a313373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-ratan-92a313373/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codio_official?igsh=bw9zogtnag5lzjri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codio_official?igsh=bw9zogtnag5lzjri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube.com/channel/uca4okb37ntdxrgn3allq3fq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/uca4okb37ntdxrgn3allq3fq/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ratanraj087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ratanraj087" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj-ratan-92a313373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-ratan-92a313373" height="30" width="40" /></a>
+<a href="https://instagram.com/codio_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codio_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uca4okb37ntdxrgn3allq3fq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uca4okb37ntdxrgn3allq3fq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ratanraj087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ratanraj087" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/844101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="844101" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
